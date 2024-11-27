@@ -1,0 +1,2 @@
+Hello, this is a file handling demo in PHP.
+This file was created and written using PHP.
