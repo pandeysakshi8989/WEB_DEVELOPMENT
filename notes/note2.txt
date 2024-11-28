@@ -1,0 +1,130 @@
+Creating a prototype for a website is an essential step in the web development process. It allows you to visualize the user experience (UX) and interface design (UI) before the actual coding begins. A prototype helps you communicate ideas to stakeholders and gather feedback early in the process, which is crucial for building a user-friendly and efficient website.
+
+Here’s a step-by-step guide to creating a website prototype along with **free and open-source tools** you can use at each step.
+
+---
+
+### **Step-by-Step Guide to Creating a Website Prototype**
+
+#### **1. Define the Purpose and Goals of Your Website**
+Before you start designing, clearly define the goals and purpose of your website. 
+
+- What problem does your website solve?
+- Who is your target audience?
+- What features and content will the website include (e.g., accommodation search, academic reviews, local amenities)?
+
+**Tools to help define goals:**
+- **Trello** (free): For organizing your thoughts and goals using a Kanban-style board. It’s useful for task management.
+  - [Trello](https://trello.com/)
+
+- **Miro** (free plan available): An online brainstorming and collaboration tool that helps you organize your thoughts and plan features.
+  - [Miro](https://miro.com/)
+
+---
+
+#### **2. Create User Stories and User Flow**
+User stories are short descriptions of a feature from the user's perspective. Once you have your goals, think about how users will interact with your website. Map out the **user flow**, i.e., the path users will take to achieve their goals.
+
+- Example User Story: "As a student, I want to search for affordable accommodation near my university."
+- User Flow: "Homepage ? Accommodation Search ? View Results ? Filter by Price ? Book Accommodation."
+
+**Tools to create user stories and flow:**
+- **Lucidchart** (free plan available): A tool for creating flowcharts, wireframes, and diagrams.
+  - [Lucidchart](https://www.lucidchart.com/)
+
+- **Whimsical** (free plan available): Great for wireframing and user flows.
+  - [Whimsical](https://whimsical.com/)
+
+---
+
+#### **3. Design Wireframes (Low-Fidelity Prototypes)**
+Wireframes are basic sketches or blueprints of your website. They are usually simple and show the layout and functionality of each page without any detailed design elements.
+
+- Include **navigation** (e.g., header, footer, side menus).
+- Show the **key elements** on each page (e.g., search bar, buttons, form fields).
+- Include **call-to-action** buttons (e.g., "Search for accommodation" or "View reviews").
+
+**Free Tools for Creating Wireframes:**
+- **Figma** (free plan available): A popular, browser-based design tool for wireframing and prototyping. It’s collaborative, meaning you can work with others in real time.
+  - [Figma](https://www.figma.com/)
+
+- **Balsamiq** (free trial available): A simple wireframing tool that mimics sketching on a whiteboard.
+  - [Balsamiq](https://balsamiq.com/)
+
+- **Pencil Project** (open-source): A free, open-source tool for creating wireframes and mockups. It’s very basic but works well for low-fidelity prototypes.
+  - [Pencil Project](https://pencil.evolus.vn/)
+
+---
+
+#### **4. Build a High-Fidelity Prototype (Interactive)**
+Once your wireframes are complete, you can create a more polished, interactive prototype. This is where you’ll add more visual details (e.g., colors, typography, images) and make the prototype clickable, simulating a real user experience.
+
+You can use your high-fidelity prototype to test the website's usability and gather feedback from potential users or stakeholders.
+
+**Free Tools for Creating Interactive Prototypes:**
+- **Figma**: In addition to wireframes, Figma allows you to create high-fidelity interactive prototypes. You can add links between pages, animations, and transitions to simulate user flow.
+  - [Figma Prototyping](https://www.figma.com/prototyping/)
+
+- **InVision** (free plan available): A powerful tool for creating interactive prototypes. You can upload static designs and add hotspots to make them clickable.
+  - [InVision](https://www.invisionapp.com/)
+
+- **Marvel App** (free plan available): A tool for creating simple prototypes and user flows with interactivity.
+  - [Marvel App](https://marvelapp.com/)
+
+- **Penpot** (open-source): An open-source alternative to Figma and Sketch that supports interactive prototyping and collaboration.
+  - [Penpot](https://penpot.app/)
+
+---
+
+#### **5. User Testing**
+Once you have your prototype, conduct usability testing to make sure your design meets the needs of your target users. This involves observing users as they interact with your prototype to identify any issues in navigation or functionality.
+
+**Free Tools for User Testing:**
+- **UsabilityHub** (free plan available): A platform that allows you to conduct simple user tests like first-click testing and design surveys.
+  - [UsabilityHub](https://usabilityhub.com/)
+
+- **Lookback.io** (free trial): A tool for conducting user testing with live sessions, surveys, and recording feedback.
+  - [Lookback.io](https://lookback.io/)
+
+- **Maze** (free plan available): A remote user testing platform that integrates with Figma to test prototypes with real users.
+  - [Maze](https://maze.co/)
+
+---
+
+#### **6. Get Feedback and Iterate**
+Gather feedback from users, stakeholders, and teammates about the prototype. Focus on improving areas such as:
+- **Usability**: Are users able to navigate easily?
+- **Design**: Is the design visually appealing and aligned with your goals?
+- **Functionality**: Do all interactive elements (buttons, forms, etc.) work as expected?
+
+After receiving feedback, iterate on the design by making necessary adjustments, fixing usability issues, or enhancing features.
+
+---
+
+#### **7. Handoff to Developers**
+Once the prototype is finalized, you can hand it off to developers for implementation. In tools like **Figma**, you can generate CSS code, inspect elements, and share design files with the development team directly.
+
+**Free Tools for Handoff:**
+- **Figma**: Figma allows you to export design files and assets (images, icons) directly and provide developers with the design specs.
+  - [Figma Handoff](https://www.figma.com/developers)
+
+- **Zeplin** (free plan available): A collaboration tool that makes it easy for designers and developers to work together. It automatically generates CSS and code snippets.
+  - [Zeplin](https://zeplin.io/)
+
+---
+
+### **Summary of Tools**
+Here’s a quick overview of free and open-source tools you can use to build your prototype:
+
+| **Step**               | **Tool**                                         | **Link**                         |
+|------------------------|--------------------------------------------------|----------------------------------|
+| Define Goals & Tasks   | Trello, Miro                                      | [Trello](https://trello.com/)     |
+| User Flow & Stories     | Lucidchart, Whimsical                           | [Lucidchart](https://www.lucidchart.com/) |
+| Wireframing             | Figma, Balsamiq, Pencil Project                 | [Figma](https://www.figma.com/)    |
+| High-Fidelity Prototype | Figma, InVision, Marvel App, Penpot              | [Figma](https://www.figma.com/)    |
+| User Testing            | UsabilityHub, Lookback.io, Maze                  | [UsabilityHub](https://usabilityhub.com/) |
+| Developer Handoff       | Figma, Zeplin                                    | [Figma Handoff](https://www.figma.com/developers) |
+
+---
+
+By following these steps and using the tools above, you can effectively design and prototype a website that is user-friendly and aligned with your goals. Once the prototype is ready, you can move forward to the development phase.

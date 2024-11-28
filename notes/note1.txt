@@ -1,0 +1,410 @@
+Yes, there are websites and platforms that provide comprehensive information for students looking to apply to universities, covering various aspects such as accommodation, living areas, local amenities, and academic reviews. While there isn't a single unified platform that covers **all** of these needs in one place, several websites and projects cater to different aspects of university life, including:
+
+### 1. **StudentCrowd (UK-based)**
+   - **What it offers**: Provides reviews from students on universities, courses, accommodation, and campus life. It includes feedback on various aspects of university life, including living areas, facilities, food, and overall student satisfaction.
+   - **Website**: [StudentCrowd](https://www.studentcrowd.com)
+
+### 2. **The Student Room (UK-based)**
+   - **What it offers**: A huge student community where users can discuss universities, courses, accommodation options, and living areas. There are also forums where students share tips on restaurants, cafes, and other local facilities.
+   - **Website**: [The Student Room](https://www.thestudentroom.co.uk)
+
+### 3. **Uni Compare (UK-based)**
+   - **What it offers**: A platform to compare universities based on courses, student reviews, and rankings. It also provides details on living costs and accommodation options in various locations.
+   - **Website**: [Uni Compare](https://universitycompare.com)
+
+### 4. **Niche (US-based)**
+   - **What it offers**: Provides rankings, reviews, and detailed descriptions about universities in the U.S. Includes information about student life, housing, dining, and even reviews about professors and courses.
+   - **Website**: [Niche](https://www.niche.com)
+
+### 5. **College Confidential (US-based)**
+   - **What it offers**: A large forum for students and parents where they can share experiences, reviews, and tips about specific universities, housing, amenities, dining options, and more. It also provides general advice on applying to universities.
+   - **Website**: [College Confidential](https://www.collegeconfidential.com)
+
+### 6. **Unigo (US-based)**
+   - **What it offers**: Similar to Niche, Unigo provides reviews and insights into universities, including information about academic experiences, housing, food, campus life, and more. It includes student reviews and guides to make the transition to university easier.
+   - **Website**: [Unigo](https://www.unigo.com)
+
+### 7. **QS World University Rankings (Global)**
+   - **What it offers**: While primarily focused on rankings, QS provides detailed insights about university facilities, student life, and sometimes cost of living. It also provides data on academic reputation, faculty expertise, and course offerings.
+   - **Website**: [QS Rankings](https://www.topuniversities.com)
+
+### 8. **Campus Compare (US-based)**
+   - **What it offers**: Focuses on providing comparisons between colleges based on reviews from real students. It includes information about campus facilities, dining options, and living areas, alongside academics.
+   - **Website**: [Campus Compare](https://www.campuscompare.com)
+
+### 9. **Accommodation and Local Amenities:**
+   - For information specifically about accommodation, many universities have their own **student accommodation websites**. Additionally, platforms like **Student.com**, **Unite Students**, and **The Student Housing Company** offer details on private student accommodation options.
+   
+   **Living areas**: Websites like **Google Maps**, **Yelp**, and **TripAdvisor** can also help explore local amenities like restaurants, tiffin centers, cafes, and stores around universities.
+
+### 10. **Reddit (Various Subreddits)**  
+   - **What it offers**: Subreddits like **r/college**, **r/gradadmissions**, and individual university subreddits often feature discussions and reviews on courses, professors, accommodation, and local life.
+   - **Website**: [Reddit](https://www.reddit.com)
+
+### For International Students:
+   - Websites like **Studyportals**, **Edukasyon.ph** (for students in the Philippines), and **IDP Education** help international students understand university admissions, student life, cost of living, and accommodation options around the world.
+
+---
+
+### How to Find This Information:
+If you're looking for a platform that combines all of these needs into a single location (e.g., academic reviews, accommodation listings, living costs, etc.), you might have to visit multiple websites or forums to gather comprehensive insights.
+
+Would you like more information or a specific guide on any of these resources?
+
+Yes, there are projects and platforms that have been built around the idea of providing comprehensive information for students about universities, including accommodation, local amenities, academic reviews, and more. While there might not be a single global project that covers *everything* in a fully integrated manner, there are a few notable **projects** and **initiatives** built around this concept. Here are some examples of student-centric projects and platforms that have been built on similar concepts:
+
+### 1. **University Review Platforms (Student-driven Projects)**
+
+   - **Student Room (UK)** and **Niche (US)**, which I mentioned earlier, are essentially community-driven platforms where students share reviews and insights about their university experiences, including academic life, living conditions, accommodation, and local amenities. These platforms are built on the idea of a student community providing peer-reviewed information.
+
+   - **Campus Review Sites**: Some universities or groups of students have also developed their own review platforms, where students post their experiences regarding academics, accommodation, food, campus facilities, and more. While they may not be universal, these projects have been built by students for students and are often found on university-specific websites or local student blogs.
+
+### 2. **"All-in-One" University Apps (Student Services Platforms)**
+
+   A few university-specific or regional **student services apps** are built to offer a comprehensive set of services, from course reviews to accommodation bookings and local amenities. These kinds of platforms integrate a variety of features into one app or website:
+
+   - **"CampusLife" Apps**: These apps integrate academic calendars, social groups, accommodation options, events, local services (like restaurants and tiffin centers), and sometimes even peer reviews of courses and professors. They may be built by universities or third-party developers in partnership with institutions.
+   
+   - **Student Union Apps**: Many universities' student unions create mobile apps or websites to centralize resources for incoming students. These often include accommodation listings, restaurant recommendations, job boards, student groups, and more. Some of these are even crowdsourced, with students adding reviews or recommendations themselves.
+
+### 3. **International Student Assistance Projects (Non-Profit/NGO)**
+
+   - **Edukasyon.ph (Philippines)**: This platform helps Filipino students make informed decisions about their higher education. It provides university rankings, course details, scholarship information, living costs, and reviews about different academic institutions. The project was designed to help students access critical information about both local and international universities.
+
+   - **UniBuddy**: UniBuddy is an online platform that connects prospective students with current students at universities. It provides a real-time chat feature where prospective students can ask about accommodation, campus life, local amenities, academic programs, and more.
+
+   - **Studyportals**: A global platform offering university comparison tools, rankings, student reviews, and more. Studyportals partners with universities to provide detailed course information, accommodation guides, and scholarship opportunities, particularly for international students. This helps prospective students make informed choices.
+
+### 4. **Local Student Community Initiatives**
+
+   - Some student organizations or groups develop projects to provide comprehensive local guides for their peers. These are often more niche and specific to certain universities or geographic areas but can provide very specific insights. They might include:
+     - **Campus guides** with detailed maps and recommendations for places to eat, study, or hang out around the university.
+     - **Accommodation listings** where students share their experiences living in different student housing complexes or apartments nearby.
+
+### 5. **Startup Projects and Online Tools**
+
+   - **Uniplaces**: Uniplaces is a startup that helps students find accommodation near their university, with reviews and information about different living areas, as well as price comparisons. While it started as a focus on accommodation, the platform is gradually expanding to cover other student needs, such as academic reviews and city guides for international students.
+
+   - **Roomi**: This is an app aimed at students and young professionals looking for shared accommodation. The app allows students to find roommates and shared housing options with an emphasis on affordability and community. While not focused on academic reviews, it does offer a more integrated approach to housing and living needs for students.
+
+### 6. **University-specific Review and Information Projects by Students**
+
+   Some student groups or startups focus on a **niche university-specific** service. For example:
+   - A group of students at a university might build a website to provide detailed reviews of specific campus facilities (libraries, dorms, dining halls, etc.), or even rate specific professors and courses. They might include links to housing resources in the local area, nearby restaurants, and living costs.
+   - These platforms often grow through grassroots efforts and can become highly useful for incoming students, offering very localized insights.
+
+### 7. **University Information Aggregators (Custom Projects)**
+
+   Some university or city-specific information aggregators are custom-built by student groups or technology startups:
+
+   - **University Review Websites**: These websites allow students to submit detailed reviews about universities and various aspects of university life. Students might rate professors, courses, and living conditions while also providing valuable insights into nearby amenities like restaurants, cafes, tiffin centers, etc.
+   - **Open Data Projects**: Some student tech groups or developers create projects where students can contribute data on their university experience. These open-source platforms might include everything from accommodation costs to food prices, local job opportunities, and other student services.
+
+### 8. **Crowdsourced "University Guides" Projects**
+
+   Several students and even universities themselves create **crowdsourced guides** on various topics. These guides typically include:
+
+   - **Living options and housing costs**
+   - **City amenities and essential services** (restaurants, grocery stores, tiffin centers, cafes)
+   - **Course reviews and professor ratings**
+   - **Academic calendars, class schedules, and exam schedules**
+   - **Social clubs and extracurricular activities**
+
+---
+
+### Summary
+
+While there may not be one universally-recognized single project that covers all aspects of university life (accommodation, academics, living areas, local amenities, etc.) in one integrated platform, **various projects** and **student-driven initiatives** cover different facets of this idea. These include **student review platforms**, **university-specific apps**, **local guides**, **international student platforms**, and **crowdsourced databases**. 
+
+Many of these projects are highly valuable for incoming students, especially those navigating unfamiliar territories, whether it's finding affordable housing, understanding local food options, or selecting courses. If you are thinking about developing a similar project, this space is still relatively open for new ideas, especially for a comprehensive platform that consolidates all these aspects.
+
+Would you like more detailed examples of specific projects or ideas for starting one yourself?
+
+To find **similar projects** or **websites** related to your idea (a platform providing comprehensive information for students on accommodation, academics, and local amenities), you can use several approaches. These will help you explore existing solutions, analyze their features, and get inspiration for your own project. Here are some steps you can take to discover similar projects:
+
+---
+
+### 1. **Research Competitors and Similar Platforms**
+
+Start by looking for websites and platforms that already provide information to students about university life, such as accommodation, academic reviews, and local amenities.
+
+#### Popular Platforms to Explore:
+- **StudentCrowd** (UK) – Offers reviews on universities, courses, accommodation, and campus life.
+  - [StudentCrowd](https://www.studentcrowd.com)
+  
+- **Uni Compare** (UK) – Allows students to compare universities and their courses, with insights into living costs and reviews of accommodation.
+  - [Uni Compare](https://universitycompare.com)
+
+- **Niche** (US) – Offers reviews on universities, including living costs, accommodation, and food, as well as ratings on academic programs and professors.
+  - [Niche](https://www.niche.com)
+
+- **Unigo** (US) – Provides reviews from students about universities, courses, and campus life.
+  - [Unigo](https://www.unigo.com)
+
+- **StudyPortals** – Focuses on providing detailed course and university search options, and includes reviews on living costs and accommodation.
+  - [StudyPortals](https://www.studyportals.com)
+
+- **Accommodation-focused platforms**: 
+  - **Uniplaces** (student accommodation search platform) – Offers a way to book accommodation near universities and includes reviews of properties.
+    - [Uniplaces](https://www.uniplaces.com)
+  
+  - **Student.com** – A global platform for student housing, with listings, reviews, and ratings.
+    - [Student.com](https://www.student.com)
+
+#### **How to Find Similar Platforms**:
+- **Google Search**: Use search terms like **“student accommodation platform,”** **“university review websites,”** **“student local amenities guide,”** or **“campus life platform.”**
+- **App Store/Play Store**: Look for apps related to student accommodation, university life, or campus reviews. Apps like **Roomi** or **UniBuddy** can be relevant.
+- **Industry Blogs & Websites**: Many ed-tech and student-centric websites write about new platforms or startups that target student needs. You can find articles like "Top Apps for Student Accommodation" or "Best Websites for University Reviews."
+
+---
+
+### 2. **Check Out Open Source Projects and GitHub**
+
+There might be **open-source projects** on platforms like GitHub that have similar goals to yours or can serve as a good starting point. You can either use the code directly or find inspiration for your platform.
+
+#### Search on GitHub:
+- **Search for student-related projects**: Use keywords like **"student accommodation,"** **"university review,"** **"student campus app,"** **"university life,"** **"open-source campus guide,"** etc.
+  - Example search: [student accommodation projects](https://github.com/search?q=student+accommodation)
+
+- **Look for project ideas on GitHub repositories**: Many open-source repositories have README files where project ideas are discussed, and you can contribute or fork the project for your use case.
+  - Example: [Awesome Open Source Projects for Students](https://github.com/karan/Projects)
+  
+#### Example GitHub repositories related to student platforms:
+- **Open Campus Platform**: A project aiming to provide resources and connections for students at different universities. Search for relevant repositories or look for repositories tagged with "student portal" or "university platform."
+  - [Example GitHub Repo](https://github.com/search?q=student+portal)
+
+---
+
+### 3. **Explore Startups in the EdTech Space**
+
+EdTech (Educational Technology) startups often create platforms that help students with various aspects of university life. These startups may have solutions similar to what you're envisioning, like accommodation finding, university reviews, and academic/course recommendations.
+
+#### How to Discover Relevant Startups:
+- **Crunchbase**: Search for **EdTech startups** that focus on student services or university life. Crunchbase has a database of companies and their funding stages, allowing you to find companies building products related to your idea.
+  - [Crunchbase](https://www.crunchbase.com)
+
+- **AngelList**: AngelList is a platform for discovering startups, especially in the tech space. Use it to find EdTech startups or those focused on student services.
+  - [AngelList](https://angel.co)
+
+- **ProductHunt**: Many new startups in the EdTech space launch on ProductHunt. You can discover new websites or apps that cater to students.
+  - [ProductHunt](https://www.producthunt.com)
+
+#### Some EdTech startups to explore:
+- **Roomi**: An app that helps students find roommates and shared accommodation.
+  - [Roomi](https://www.roomiapp.com/)
+  
+- **Unibuddy**: A platform that connects prospective students with current students at universities to get real-life insights.
+  - [Unibuddy](https://www.unibuddy.com)
+
+- **Pupilfirst**: An EdTech startup that focuses on building digital learning platforms. While not focused on accommodation, it may offer design inspiration for similar user-centric platforms.
+  - [Pupilfirst](https://pupilfirst.org/)
+
+---
+
+### 4. **Check Out University and Student Union Websites**
+
+Many universities and student unions develop their own platforms that provide similar services. These sites often include information on accommodation, living costs, local amenities, and campus life. 
+
+#### Examples of University Platforms:
+- **University of Oxford’s Housing Services**: A platform that provides information on housing for both domestic and international students.
+  - [University of Oxford Housing](https://www.ox.ac.uk/students/accommodation)
+
+- **Student Union Websites**: Many student unions provide **city guides**, **student accommodation search**, **event listings**, and more. They sometimes even have reviews of courses and professors.
+  
+#### How to Find Similar Sites:
+- **University websites**: Search for a particular university's student portal, accommodation services, and student union websites. These often have helpful guides for incoming students.
+- **Google Search**: Use terms like **"student accommodation university name"** or **"student union guide university name"** to find specific platforms.
+
+---
+
+### 5. **Explore Design and Web Development Communities**
+
+Many designers and developers discuss projects and share resources in online communities. You can find inspiration, open-source code, or even collaborations here.
+
+#### Platforms to Explore:
+- **Dribbble**: A design platform where UI/UX designers post their work. Search for student-related projects to get design inspiration.
+  - [Dribbble](https://dribbble.com)
+
+- **Behance**: Similar to Dribbble, Behance is a portfolio website where you can find design projects, including websites built for students and universities.
+  - [Behance](https://www.behance.net)
+
+- **Reddit**: Subreddits like **r/edtech**, **r/startups**, or **r/web_design** often discuss projects related to student needs, university apps, and EdTech startups.
+  - Example subreddits: [r/edtech](https://www.reddit.com/r/edtech/) and [r/web_design](https://www.reddit.com/r/web_design/)
+
+---
+
+### 6. **Look for Collaboration Opportunities on Platforms like Indie Hackers**
+
+**Indie Hackers** is a platform for entrepreneurs and developers working on side projects. You can find people who are building similar products or who might be interested in collaborating.
+
+- **Indie Hackers**: Search for posts or projects related to student services or university guides.
+  - [Indie Hackers](https://www.indiehackers.com)
+
+---
+
+### Summary of Steps to Find Similar Projects:
+1. **Competitor Research**: Start by checking out popular websites and platforms related to student services and reviews.
+2. **GitHub**: Look for open-source repositories or projects that focus on student portals, accommodation, and university life.
+3. **EdTech Startups**: Search on Crunchbase, AngelList, and ProductHunt to find EdTech startups focused on student life.
+4. **University Websites**: Explore university-specific platforms and student unions for guides, housing, and student services.
+5. **Design and Dev Communities**: Use Dribbble, Behance, Reddit, and Indie Hackers for design inspiration and possible collaboration opportunities.
+
+By following these steps, you can uncover a wealth of similar projects, find useful tools, and identify new features for your platform. You'll also get insights into what works well and where there's room for innovation.
+
+
+For Indian students, the need for platforms providing comprehensive information about universities, accommodation, academic reviews, and local amenities is just as relevant, and there are several tools, websites, and resources tailored to this audience. Below are specific **Indian platforms, projects, and tools** you can explore to get insights and inspiration for your idea:
+
+---
+
+### **1. Explore Existing Platforms for Indian Students**
+
+These platforms already serve Indian students by providing information on universities, accommodation, student life, and more. You can look at them to understand how they function, their user experience, and identify areas where you can innovate.
+
+#### **Popular Platforms for Indian Students:**
+- **Shiksha**  
+  Shiksha is an education portal that provides information on universities, courses, colleges, entrance exams, and admission processes in India. It also offers **student reviews** of universities and courses.
+  - [Shiksha](https://www.shiksha.com)
+
+- **CollegeDekho**  
+  CollegeDekho provides university and college rankings, admission guidance, course details, reviews, and expert advice. They also have information on student accommodation, living costs, and scholarships.
+  - [CollegeDekho](https://www.collegedekho.com)
+
+- **Careers360**  
+  A leading Indian education website, Careers360 offers detailed insights on universities, courses, exams, and career guidance. It includes rankings, reviews, and profiles of universities and colleges.
+  - [Careers360](https://www.careers360.com)
+
+- **Unacademy**  
+  While primarily focused on test preparation, Unacademy also features educational content about universities, entrance exams, and admission processes.
+  - [Unacademy](https://www.unacademy.com)
+
+- **EduKart**  
+  EduKart offers information on online courses, distance education programs, and universities, particularly in the context of professional education.
+  - [EduKart](https://www.edukart.com)
+
+#### **Accommodation and Local Amenities Platforms:**
+- **NestAway**  
+  NestAway is a platform for renting affordable accommodation, including PGs (Paying Guest), apartments, and shared housing. It is widely used by students in major Indian cities.
+  - [NestAway](https://www.nestaway.com)
+
+- **Zolo**  
+  Zolo provides student housing, including PGs and flats, with an emphasis on affordability, amenities, and community living for students in cities like Bengaluru, Pune, Delhi, and Mumbai.
+  - [Zolo](https://www.zolostays.com)
+
+- **Flatmate**  
+  A platform to find flatmates and student accommodation in various Indian cities.
+  - [Flatmate](https://www.flatmate.in)
+
+- **OYO Life**  
+  OYO Life offers long-term stays for students, with options for fully furnished rooms and flats.
+  - [OYO Life](https://www.oyorooms.com/oyolife/)
+
+#### **Campus Life and Local Amenities Platforms:**
+- **MyCollegeRoomie**  
+  A social platform where students can find roommates, view accommodation listings, and get reviews about different housing options near their universities.
+  - [MyCollegeRoomie](https://www.mycollegeroomie.com)
+
+- **Sulekha**  
+  While not specifically for students, Sulekha allows you to search for PG accommodation, apartments, and even services like tiffin services and restaurants. It's very useful for students in cities.
+  - [Sulekha](https://www.sulekha.com)
+
+---
+
+### **2. Check Out EdTech Startups in India**
+
+EdTech is booming in India, with numerous startups focusing on the needs of students, from college admissions to campus life. Some startups are building platforms similar to your idea, offering services like reviews, accommodation, and local guides.
+
+#### **EdTech Startups to Explore:**
+- **Unacademy**  
+  Unacademy is one of the largest online learning platforms in India, helping students prepare for competitive exams, but it also covers a wide range of student needs including exam tips, university reviews, and career guidance.
+  - [Unacademy](https://www.unacademy.com)
+
+- **Byju’s**  
+  Byju's is another major EdTech platform that primarily focuses on education and test prep, but it could provide inspiration for a **mobile-first approach** to student engagement.
+  - [Byju’s](https://www.byjus.com)
+
+- **Campus Karma**  
+  Campus Karma is a platform that allows students to share reviews about their colleges, courses, and professors, and provides insights into academic quality and campus life.
+  - [Campus Karma](https://www.campuskarma.com)
+
+- **Studygram**  
+  Studygram is a startup focused on simplifying the process of choosing the right courses and universities, with user-generated reviews and suggestions on study materials.
+  - [Studygram](https://www.studygram.com)
+
+- **Veedu**  
+  A newer startup focused on providing virtual tours of campuses and student accommodations. It is useful for international students or students moving to new cities.
+  - [Veedu](https://www.veedu.com)
+
+---
+
+### **3. Search on GitHub for Open Source Projects**
+
+You can search for open-source repositories or projects related to **student services**, **campus life**, and **university information** on GitHub. These projects can give you a starting point to understand how others are approaching the problem and maybe even use some of the code.
+
+#### **Search on GitHub:**
+- **Search Terms**: Try searching for terms like **“student accommodation,”** **“university review,”** **“student portal,”** **“campus guide,”** or **“college review platform”** on GitHub.
+  - [GitHub Student Projects](https://github.com/search?q=student+accommodation)
+
+- Example repositories you can explore:
+  - **Student Portal**: A generic repository that could serve as the backend for a student-focused platform.
+    - [Example: GitHub Student Portal](https://github.com/search?q=student+portal)
+
+  - **College Review Platforms**: Some open-source projects are built for university review systems and academic feedback.
+    - Example: [University Review System GitHub](https://github.com/search?q=university+review)
+
+---
+
+### **4. Check Out University-Specific and Student Union Websites**
+
+Many universities in India provide detailed information on **accommodation options**, **local amenities**, and **academic reviews** through their student unions or dedicated student portals.
+
+#### **University Student Portals**:
+- **Indian Institute of Technology (IITs)**: IITs, such as IIT Bombay, IIT Delhi, and IIT Madras, have comprehensive student portals with information on academics, hostels, campus life, and student services.
+  - Example: [IIT Bombay Student Portal](https://www.iitb.ac.in/students)
+
+- **Delhi University (DU)**: DU’s student portal offers insights into various colleges under its banner, including student accommodation options and campus life.
+  - Example: [Delhi University Student Portal](https://www.du.ac.in/)
+
+- **University of Mumbai**: The University of Mumbai's website and individual college websites offer guides on accommodation and student welfare.
+  - Example: [University of Mumbai](https://mu.ac.in/)
+
+#### **Student Union Websites**:
+- Many universities in India have student unions that maintain blogs or websites providing detailed insights on living on campus, local amenities, food, and social life. Check the student union or forum websites for each university you're interested in.
+
+---
+
+### **5. Explore Design and Development Communities**
+
+If you’re looking for inspiration on the **UI/UX** side or **collaborating with other developers** for similar projects, you can find design resources and community-driven ideas on platforms like **Dribbble**, **Behance**, **Reddit**, or **Indie Hackers**.
+
+#### **Platforms for Design Inspiration**:
+- **Dribbble**: Search for designs related to **student platforms**, **university life apps**, **student accommodation websites**, and more.
+  - [Dribbble](https://dribbble.com)
+
+- **Behance**: This is a great place to find high-quality **UI/UX** and design prototypes for education-related apps or websites.
+  - [Behance](https://www.behance.net)
+
+- **Reddit**: Check out **r/EdTech**, **r/startups**, and **r/web_design** for student-related platform discussions.
+  - Example: [r/EdTech](https://www.reddit.com/r/edtech/)
+
+- **Indie Hackers**: Explore entrepreneurial ideas and projects being built by people in the EdTech space.
+  - [Indie Hackers](https://www.indiehackers.com)
+
+---
+
+### **6. Look for Collaboration Opportunities on Indian Startups & Platforms**
+
+In India, **collaboration** with EdTech startups or other developers working in the education space can provide insights and potentially form the foundation for your platform. You can search for Indian startup communities where such projects are discussed.
+
+#### **Networking & Collaboration**:
+- **StartUp India**: A government initiative to support startups in India. You can discover education-related startup communities or even apply for funding.
+  - [StartUp India](https://www.startupindia.gov.in/)
+
+- **AngelList India**: Search for EdTech startups and potential collaborators working in the student services space.
+  - [AngelList India](https://angel.co/india)
+
+---
+
+### **Summary of Indian Resources**
+
+1. **Student Platforms**: Explore sites like **Shiksha**, **CollegeDekho**, **Careers360**, **NestAway**, and **Zolo** to find examples of university search, accommodation, and local amenities.
+2. **EdTech Startups**: Look at **Unacademy**, **Byju’s**,
